@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="[Raidy] - CustomMobs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_Raidy____CustomMobs_jar</output-path>
+    <root id="archive" name="[Raidy] - CustomMobs.jar">
+      <element id="module-output" name="[Raidy] - CustomMobs" />
+    </root>
+  </artifact>
+</component>

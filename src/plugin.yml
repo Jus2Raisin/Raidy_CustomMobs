@@ -1,0 +1,10 @@
+main: fr.raidy.RaidyPlugin
+
+name: CustomMobs
+version: 1.0.0
+author: Jus2Raisin
+
+commands:
+  customMobs:
+    permission: customMobs.*
+    permission-message: §cVous ne pouvez pas faire ceci.
